@@ -61,6 +61,7 @@ INSTALLED_APPS = [
     'django_filters',
     'debug_toolbar',
     'drf_yasg',
+    'channels',
     # Project apps
     'src',
     'src.management',
